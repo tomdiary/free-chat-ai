@@ -14,7 +14,7 @@
 
 官方网站: [https://chat.openai.com/](https://chat.openai.com/)
 
-<table style="width: 100%; text-align: center;">
+<table width="100%" align="center">
   <thead>
     <tr>
       <td>编号</td>
