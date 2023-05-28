@@ -27,3 +27,8 @@
 |  08  | [freegpt.one](https://freegpt.one/) | ✈️ ❤️ 🆓 |  |
 |  09  | [theb.ai](https://chatbot.theb.ai/) | ✈️ ❤️ 🆓 |  |
 |  10  | [chat35.com](https://chat35.com/) | ✈️ ❤️ 🆓 |  |
+|  11  | [SQL Chat](https://www.sqlchat.ai/) | ✈️ 🗝 | 支持自有KEY |
+|  12  | [Writesonic](https://writesonic.com/) | ✈️ 🔑 🆓 | 注册账号后免费使用 |
+|  13  | [jinshutuan.com](https://chat2.jinshutuan.com/) | 🆓 |  |
+|  14  | [nat.dev](https://nat.dev/) | ✈️ 🔑 4️⃣ |  |
+|  15  | [aitianhu.top](https://chat5.aitianhu.top/) | 🆓 |  |
