@@ -10,7 +10,13 @@
 | 🗝 | 需要KEY/CODE |
 | 🆓 | 免费使用 |
 | 4️⃣ | 支持GPT-4 |
+| 💰 | 需要付费使用 |
 
+## 多合一网站
+
+| 编号 | 名称 | 标注 |     说明     |
+| :--: | :--: | :--: | :----------: |
+|  01  | [ChatHub](https://github.com/chathub-dev/chathub) | ✈️ 🔑  | 12+，浏览器插件方式使用 |
 ## ChatGPT 镜像站
 
 官方网站: [https://chat.openai.com/](https://chat.openai.com/)
@@ -32,3 +38,5 @@
 |  13  | [jinshutuan.com](https://chat2.jinshutuan.com/) | 🆓 |  |
 |  14  | [nat.dev](https://nat.dev/) | ✈️ 🔑 4️⃣ |  |
 |  15  | [aitianhu.top](https://chat5.aitianhu.top/) | 🆓 |  |
+|  16  | [215.im](https://215.im/#/invite?v=VkVYrz) | 🔑 💰 | 需要手机号注册，新账号赠送20次对话 |
+| 17 | aichatos.com | 🆓 |  |
